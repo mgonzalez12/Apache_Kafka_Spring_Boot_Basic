@@ -1,0 +1,9 @@
+
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¿ÇÆÍà1
+G	java:S106"+Replace this use of System.out by a logger.(şµÅÄ8«à’Úà1
+L	java:S106"+Replace this use of System.out by a logger.(³¾÷Öüÿÿÿÿ8«à’Úà1
+L	java:S106"+Replace this use of System.out by a logger.(Œş€–ÿÿÿÿÿ8€å½Úà1
+]	java:S125'"<This block of commented-out lines of code should be removed.(×”óéúÿÿÿÿ8ªà’Úà1
+G	java:S106)"+Replace this use of System.out by a logger.(×ñÈİ8‚å½Úà1
+G	java:S106+"+Replace this use of System.out by a logger.(â®¡8‚å½Úà1

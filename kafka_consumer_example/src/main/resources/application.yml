@@ -1,0 +1,19 @@
+#spring:
+#  kafka:
+#    template:
+#      default-topic: stock-events
+#    consumer:
+#      bootstrap-servers: localhost:9092
+#      group-id: stock-events-listener-group
+#      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+#      value-deserializer: org.springframework.kafka.support.serializer.JsonDeserializer
+#      properties:
+#        spring:
+#          json:
+#            trusted:
+#              packages: com.springcloud.kafka_producer_example.dto # Replace with the actual package path
+#
+
+server:
+  port: 8081
+
